@@ -1,0 +1,9 @@
+E:\C Sharp\SetColor_2\SetColor_2\bin\Debug\SetColor_2.exe.config
+E:\C Sharp\SetColor_2\SetColor_2\bin\Debug\SetColor_2.exe
+E:\C Sharp\SetColor_2\SetColor_2\bin\Debug\SetColor_2.pdb
+E:\C Sharp\SetColor_2\SetColor_2\obj\Debug\SetColor_2.csprojResolveAssemblyReference.cache
+E:\C Sharp\SetColor_2\SetColor_2\obj\Debug\SetColor_2.Form1.resources
+E:\C Sharp\SetColor_2\SetColor_2\obj\Debug\SetColor_2.Properties.Resources.resources
+E:\C Sharp\SetColor_2\SetColor_2\obj\Debug\SetColor_2.csproj.GenerateResource.Cache
+E:\C Sharp\SetColor_2\SetColor_2\obj\Debug\SetColor_2.exe
+E:\C Sharp\SetColor_2\SetColor_2\obj\Debug\SetColor_2.pdb

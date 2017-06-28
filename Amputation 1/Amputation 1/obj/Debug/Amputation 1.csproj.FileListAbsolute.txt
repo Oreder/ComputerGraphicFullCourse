@@ -1,0 +1,9 @@
+E:\C Sharp\Amputation 1\Amputation 1\bin\Debug\Amputation 1.exe.config
+E:\C Sharp\Amputation 1\Amputation 1\bin\Debug\Amputation 1.exe
+E:\C Sharp\Amputation 1\Amputation 1\bin\Debug\Amputation 1.pdb
+E:\C Sharp\Amputation 1\Amputation 1\obj\Debug\Amputation 1.csprojResolveAssemblyReference.cache
+E:\C Sharp\Amputation 1\Amputation 1\obj\Debug\Amputation_1.Form1.resources
+E:\C Sharp\Amputation 1\Amputation 1\obj\Debug\Amputation_1.Properties.Resources.resources
+E:\C Sharp\Amputation 1\Amputation 1\obj\Debug\Amputation 1.csproj.GenerateResource.Cache
+E:\C Sharp\Amputation 1\Amputation 1\obj\Debug\Amputation 1.exe
+E:\C Sharp\Amputation 1\Amputation 1\obj\Debug\Amputation 1.pdb

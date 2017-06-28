@@ -1,0 +1,9 @@
+E:\C Sharp\3Dtest\3Dtest\bin\Debug\3Dtest.exe.config
+E:\C Sharp\3Dtest\3Dtest\bin\Debug\3Dtest.exe
+E:\C Sharp\3Dtest\3Dtest\bin\Debug\3Dtest.pdb
+E:\C Sharp\3Dtest\3Dtest\obj\Debug\3Dtest.csprojResolveAssemblyReference.cache
+E:\C Sharp\3Dtest\3Dtest\obj\Debug\_3Dtest.Form1.resources
+E:\C Sharp\3Dtest\3Dtest\obj\Debug\_3Dtest.Properties.Resources.resources
+E:\C Sharp\3Dtest\3Dtest\obj\Debug\3Dtest.csproj.GenerateResource.Cache
+E:\C Sharp\3Dtest\3Dtest\obj\Debug\3Dtest.exe
+E:\C Sharp\3Dtest\3Dtest\obj\Debug\3Dtest.pdb
